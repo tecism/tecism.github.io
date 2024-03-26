@@ -7,6 +7,7 @@ permalink: /about/
 Our mission at Tecism is to inspire and elevate technical knowledge through collaborative learning. Founded on the principles of shared development, we strive to enhance understanding of new technologies while paving the way for others to follow. -Epic
 ## Features
 
+- Base theme is using [Reverie]
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
 - Sass/Coffeescript support using Jekyll 2.0
